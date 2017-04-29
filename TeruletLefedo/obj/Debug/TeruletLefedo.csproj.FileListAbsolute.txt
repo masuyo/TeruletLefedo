@@ -1,0 +1,14 @@
+d:\Egyetem\TANANYAG\ÓE-NIK\2016-17-2\Prog II\ff\TeruletLefedo\TeruletLefedo\bin\Debug\TeruletLefedo.exe
+d:\Egyetem\TANANYAG\ÓE-NIK\2016-17-2\Prog II\ff\TeruletLefedo\TeruletLefedo\bin\Debug\TeruletLefedo.pdb
+d:\Egyetem\TANANYAG\ÓE-NIK\2016-17-2\Prog II\ff\TeruletLefedo\TeruletLefedo\obj\Debug\TeruletLefedo.exe
+d:\Egyetem\TANANYAG\ÓE-NIK\2016-17-2\Prog II\ff\TeruletLefedo\TeruletLefedo\obj\Debug\TeruletLefedo.pdb
+d:\Egyetem\TANANYAG\ÓE-NIK\2016-17-2\Prog II\ff\TeruletLefedo\TeruletLefedo\obj\Debug\TeruletLefedo.csprojResolveAssemblyReference.cache
+d:\temp\Gabi_prog\LASTMINUTE\TeruletLefedo\TeruletLefedo\obj\Debug\TeruletLefedo.exe
+d:\temp\Gabi_prog\LASTMINUTE\TeruletLefedo\TeruletLefedo\obj\Debug\TeruletLefedo.pdb
+d:\temp\Gabi_prog\LASTMINUTE\TeruletLefedo\TeruletLefedo\bin\Debug\TeruletLefedo.exe
+d:\temp\Gabi_prog\LASTMINUTE\TeruletLefedo\TeruletLefedo\bin\Debug\TeruletLefedo.pdb
+d:\Egyetem\TANANYAG\ÓE-NIK\2016-17-2\Prog II\ff\FINAL\TeruletLefedo\TeruletLefedo\obj\Debug\TeruletLefedo.exe
+d:\Egyetem\TANANYAG\ÓE-NIK\2016-17-2\Prog II\ff\FINAL\TeruletLefedo\TeruletLefedo\obj\Debug\TeruletLefedo.pdb
+d:\Egyetem\TANANYAG\ÓE-NIK\2016-17-2\Prog II\ff\FINAL\TeruletLefedo\TeruletLefedo\bin\Debug\TeruletLefedo.exe
+d:\Egyetem\TANANYAG\ÓE-NIK\2016-17-2\Prog II\ff\FINAL\TeruletLefedo\TeruletLefedo\bin\Debug\TeruletLefedo.pdb
+d:\Egyetem\TANANYAG\ÓE-NIK\2016-17-2\Prog II\ff\FINAL\TeruletLefedo\TeruletLefedo\obj\Debug\TeruletLefedo.csprojResolveAssemblyReference.cache
